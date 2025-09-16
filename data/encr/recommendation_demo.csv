@@ -1,0 +1,6 @@
+query,rank,dish_name,vector_score,rerank_score
+món gì cay cay mà ngon ngon,1,Bánh Cay Chiên Giòn,0.8121641278266907,4.188809394836426
+món gì cay cay mà ngon ngon,2,Khổ qua chiên me cay,0.8107534050941467,4.140182971954346
+món gì cay cay mà ngon ngon,3,Nhộng Tằm Chiên Sốt Cay,0.8039133548736572,1.945525884628296
+món gì cay cay mà ngon ngon,4,Thịt rang sả,0.7899083495140076,1.8841475248336792
+món gì cay cay mà ngon ngon,5,Bánh mì que xốt thịt cay Mayo,0.7966018319129944,1.242817997932434
